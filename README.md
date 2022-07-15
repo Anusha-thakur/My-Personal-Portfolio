@@ -1,3 +1,3 @@
-# My-Personal-Portfolio
-This is my Personal Portfolio.
+# My-Portfolio
+This is my Portfolio.
 It is created completely using HTML and CSS.
